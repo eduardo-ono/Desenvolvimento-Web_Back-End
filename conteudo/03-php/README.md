@@ -6,7 +6,14 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web_back-end/conteudo/p
 
 <br>
 
-### Conteúdo
+### Fundamentos
+<br>
+
+![Fig.](../../mapas-mentais/php-linguagem.svg)
+
+<br>
+
+### Material de Apoio
 <br>
 
 * http://www.newthinktank.com/2019/12/learn-php-one-video/
