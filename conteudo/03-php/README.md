@@ -9,6 +9,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web_back-end/conteudo/p
 ### Conteúdo
 <br>
 
+* http://www.newthinktank.com/2019/12/learn-php-one-video/
 * [Derek Banas] [PHP Tutorial 2020](https://www.youtube.com/watch?v=NihZYkNpslE) (2:17:05)
 
     ```

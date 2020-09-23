@@ -6,6 +6,7 @@
     $altura = 1.72;
     $imc = $peso / ($altura * $altura);
     echo "Nome: " . $nome . " " . $sobrenome . "<br>";
-    echo "IMC = " . $imc;
-
+    echo "IMC = " . $imc . "<br>";
+    printf("IMC = %.1f", $imc);
+    
 ?>
