@@ -8,36 +8,34 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web_back-end/
 
 ## Conteúdo Programático
 
-```
-- Overview
-- PHP
-- Node.js
-- Contêiners
-- Docker
-```
+> Overview
+
+> PHP
+> * Composer
+
+> Node.js
+
+> Contêiners
+
+> Docker
+
 <br>
 
 ## Softwares
+
 - Microsoft Visual Studio Code - https://code.visualstudio.com
 
 <br>
 
 ## Material de Apoio
+<br>
+
 - https://www.w3schools.com
+- https://www.php.net/manual/pt_BR/
 
 <br>
 
 ## Bibliografia
-<br>
-
-### PHP
-<br>
-
-### Node.js
-
-* HAVERBEKE, Marijn. [Eloquent JavaScript, 3 ed.](https://archive.org/details/2018eloquentjavascript), 2018.
-* SYED, Basarat Ali. [Beginning Node.js](https://archive.org/details/beginning-nodejs-apress-2014), Apress, 2014.
-
 <br>
 
 ## Filmes recomendados

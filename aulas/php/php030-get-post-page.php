@@ -17,7 +17,7 @@
         </p>
         <p style="background-color: #505050">
             <form action="php030-get-post.php" method="GET">
-                Usuário: <input type="text" name="username"><br>
+                Usuário: <input type="text" name="username"><br><br>
                 Senha: <input type="text" name="password"><br><br>
                 <input type="submit">
             </form>

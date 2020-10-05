@@ -8,7 +8,7 @@
     }
     echo "</p>";
 
-    echo "<p>";
+    echo "<p style='color: red; background-color: grey'>";
     $i = 0;
     while ($i < 10)
     {
@@ -16,8 +16,9 @@
             echo $i . "<br>";
         $i++;
     }
-
     echo "</p>";
+
+    echo "<p>";
     $i = 0;
     do {
         if ($i % 2 == 0)
