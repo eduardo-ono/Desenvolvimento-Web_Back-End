@@ -132,7 +132,7 @@ ADD ./usr/share/
 
 ## Vídeos Recomendados
 
-* [AzureTar] Introdução a Docker Desktop usando WSL2, Windows Terminal e VS Code | [YouTube](https://youtu.be/eJQEISCKdos) (33:51)
+* [AzureTar] [Introdução a Docker Desktop usando WSL2, Windows Terminal e VS Code](https://youtu.be/eJQEISCKdos) (YouTube, 33:51)
 * [Amigoscode] [Docker and Kubernetes Tutorial (Set/2020)](https://www.youtube.com/watch?v=bhBSlnQcq2k) (4:17:59)
 
 <br>
