@@ -7,24 +7,45 @@ Prof. Eduardo Ono
 ## Conceitos
 <br>
 
-> Docker é uma ferramenta de software capaz que gerenciar ambientes de execução.
+> **Docker** é um conjunto de produtos de plataforma como serviço que usam virtualização a nível de sistema operacional para entregar software em pacotes chamados contêineres. capaz que gerenciar ambientes de execução.
 
-> Uma Imagem Docker é um modelo (_template_) ...
+> **Docker Desktop** é uma ferramenta de software que fornece um ambiente de desenvolvimento através da criação, transporte e execução de contêineres. 
 
-> Um contêiner é uma instância de uma imagem em execução.
+> Uma **Imagem Docker** é um modelo (_template_) para a criação de contêiners através do Docker.
 
-> Dockerfile 
+> Um **contêiner** é uma instância de uma imagem Docker. Cada contêiner pode ser executado isoladamente de outros contêineres, agrupando seus próprios softwares, bibliotecas e arquivos de configuração.
 
 <br>
 
-## Instalação do Docker no Windows 10
+## Pré-Requisitos para a Instlação do Docker Desktop no Windows 10
 <br>
 
-> ### Pré-Requisitos
+* Windows 10 Professional com o Hyper-V habilitado
+
+ou
 
 * Windows 10 Home e WSL 2
-* Windows 10 Professional e Hyper-V
 
+<br>
+
+Vídeo com o procedimento de instalação do WSL 2 no Windows 10 Home:
+
+* [David Bombal] [WSL 2: Getting started(Jun/2020)](https://www.youtube.com/watch?v=_fntjriRe48) (YouTube, 20:33)
+
+OBS.: Para a instalação do WSL 2 no Windows 10 Home, este deve estar atualizado pelo menos com a versão 2004 (Abr/2020).
+
+Para verificar qual versão do WSL (1 ou 2) está sendo utilizada no Windows 10 Home, abrir o terminal do PowerShell  e digitar:
+
+    wsl -l -v
+
+Caso esteja sendo executada versão 1, digitar no PowerShell:
+
+    wsl --set-version Ubuntu-20.04 2
+
+
+<br>
+
+## Instalação do Docker Desktop no Windows 10
 <br>
 
 > ### Download do Docker Desktop
@@ -36,29 +57,30 @@ Prof. Eduardo Ono
 ## Instalação do Docker no Ubuntu
 <br>
 
+    $ sudo apt install docker-ce
+
+<br>
+
 ## Utilizando o Docker
 <br>
 
-Versão do Docker Instalada:
+> Para exibir a versão do Docker instalada:
 
     docker --version
 
-> ### Executando um contêiner
-<br>
-
-Para verificar quais conêineres estão em execução:
+> Para verificar quais conêineres estão em execução:
 
     docker ps
+
+> Para executar um contêiner (exemplos):
 
     docker run -d -p 8080:80 nginx:latest
 
     doceker run -d -p 8080:80 -p 3000:80 nginx:latest
 
-Abrindo o navegador no endereço localhost:8080 o servidor nginx deverá estar sendo executado.
+Obs.: Abrindo o navegador no endereço localhost:8080 o servidor nginx deverá estar sendo executado.
 
-<br>
-
-> ### Removendo um contêiner
+> Removendo todos os contêineres
 <br>
 
     docker rm $(docker ps -aq)
