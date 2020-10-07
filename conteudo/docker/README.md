@@ -28,11 +28,14 @@ ou
 
 <br>
 
+### Instalação do WSL 2 no Windows 10 Home
+<br>
+
+> Para a instalação do WSL 2 no Windows 10 Home, este deve estar atualizado pelo menos com a versão 2004 (Abr/2020).
+
 Vídeo com o procedimento de instalação do WSL 2 no Windows 10 Home:
 
 * [David Bombal] [WSL 2: Getting started(Jun/2020)](https://www.youtube.com/watch?v=_fntjriRe48) (YouTube, 20:33)
-
-OBS.: Para a instalação do WSL 2 no Windows 10 Home, este deve estar atualizado pelo menos com a versão 2004 (Abr/2020).
 
 <br>
 
@@ -46,7 +49,6 @@ Para verificar qual versão do WSL (1 ou 2) está sendo utilizada no Windows 10 
 Caso esteja sendo executada versão 1, para mudar para a versão 2 digitar no PowerShell:
 
     wsl --set-version Ubuntu-20.04 2
-
 
 <br>
 
