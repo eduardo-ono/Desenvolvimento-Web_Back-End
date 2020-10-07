@@ -17,38 +17,44 @@ Prof. Eduardo Ono
 
 <br>
 
-## Pré-Requisitos para a Instlação do Docker Desktop no Windows 10
+## Pré-Requisitos para a Instalação do Docker Desktop no Windows 10
 <br>
 
-* Windows 10 Professional com o Hyper-V habilitado
+* Windows 10 Professional 64-bit com o Hyper-V habilitado, 4 GB RAM
 
 ou
 
-* Windows 10 Home e WSL 2
+* Windows 10 Home 64-bit e WSL 2, 4 GB RAM
 
 <br>
+
+### 
 
 ### Instalação do WSL 2 no Windows 10 Home
 <br>
 
-> Para a instalação do WSL 2 no Windows 10 Home, este deve estar atualizado pelo menos com a versão 2004 (Abr/2020).
+1. Verificar se o Windows 10 Home está atualizado para a versão 2004 (Abr/2020) ou mais recente. Caso não esteja, atualizar o Windows.
 
-Vídeo com o procedimento de instalação do WSL 2 no Windows 10 Home:
+1. Na janela Recursos do Windows (procure através da ferramenta Pesquisar na barra de tarefas), marque as opções `Plataforma de Máquina Virtual` e `Subsistema do Windows para Linux`. Clique em OK. Pode ser necessário ter que reiniciar o sistema.
+
+1. Fazer o download e instalar o [Pacote de atualização do kernel do Linux do WSL2 para sistemas x64](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi).
+
+1. No Microsoft Store, pesquisar e instalar o Ubuntu 20.04 LTS.
+
+1. Verificar no terminal do PowerShell qual versão do WSL (1 ou 2) está sendo utilizada no Windows 10 Home:
+    ```
+    wsl - l -v
+    ```
+
+1. Caso esteja sendo executada versão 1, mudar para a versão 2 no PowerShell:
+    ```
+    wsl --set-version Ubuntu-20.04 2
+    ```
+<br>
+
+Vídeo com o procedimento completo da instalação do WSL 2 no Windows 10 Home:
 
 * [David Bombal] [WSL 2: Getting started(Jun/2020)](https://www.youtube.com/watch?v=_fntjriRe48) (YouTube, 20:33)
-
-<br>
-
-### Após a instalação do WSL e da distribuição Ubuntu 20.04:
-<br>
-
-Para verificar qual versão do WSL (1 ou 2) está sendo utilizada no Windows 10 Home, abrir o terminal do PowerShell  e digitar:
-
-    wsl -l -v
-
-Caso esteja sendo executada versão 1, para mudar para a versão 2 digitar no PowerShell:
-
-    wsl --set-version Ubuntu-20.04 2
 
 <br>
 
@@ -126,7 +132,7 @@ ADD ./usr/share/
 
 <br>
 
-## Vídeos
+## Vídeos Recomendados
 
 * [AzureTar] Introdução a Docker Desktop usando WSL2, Windows Terminal e VS Code | [YouTube](https://youtu.be/eJQEISCKdos) (33:51)
 * [Amigoscode] [Docker and Kubernetes Tutorial (Set/2020)](https://www.youtube.com/watch?v=bhBSlnQcq2k) (4:17:59)
