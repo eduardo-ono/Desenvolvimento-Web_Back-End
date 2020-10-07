@@ -17,29 +17,27 @@ Prof. Eduardo Ono
 
 <br>
 
-## Pré-Requisitos para a Instalação do Docker Desktop no Windows 10
+## Requisitos Mínimos para a Instalação do Docker Desktop no Windows 10
 <br>
 
-* Windows 10 Professional 64-bit com o Hyper-V habilitado, 4 GB RAM
+* Windows 10 Professional 64-bit com o Hyper-V habilitado, 6 GB RAM
 
 ou
 
-* Windows 10 Home 64-bit e WSL 2, 4 GB RAM
+* Windows 10 Home v. 2004 (ou mais recente) 64-bit e WSL 2, 4 GB RAM
 
 <br>
-
-### 
 
 ### Instalação do WSL 2 no Windows 10 Home
 <br>
 
 1. Verificar se o Windows 10 Home está atualizado para a versão 2004 (Abr/2020) ou mais recente. Caso não esteja, atualizar o Windows.
 
-1. Na janela Recursos do Windows (procure através da ferramenta Pesquisar na barra de tarefas), marque as opções `Plataforma de Máquina Virtual` e `Subsistema do Windows para Linux`. Clique em OK. Pode ser necessário ter que reiniciar o sistema.
+1. Na janela [Recursos do Windows](recursos-do-windows.png) (procure através da ferramenta Pesquisar na barra de tarefas), marque as opções `Plataforma de Máquina Virtual` e `Subsistema do Windows para Linux`. Clique em OK. Pode ser necessário ter que reiniciar o sistema.
 
-1. Fazer o download e instalar o [Pacote de atualização do kernel do Linux do WSL2 para sistemas x64](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi).
+1. Fazer o download e instalar o [Pacote de atualização do kernel do Linux do WSL2 para sistemas x64](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi) (aprox. 14 MB).
 
-1. No Microsoft Store, pesquisar e instalar o Ubuntu 20.04 LTS.
+1. No Microsoft Store, pesquisar e instalar o Ubuntu 20.04 LTS (aprox. 400 MB).
 
 1. Verificar no terminal do PowerShell qual versão do WSL (1 ou 2) está sendo utilizada no Windows 10 Home:
     ```
