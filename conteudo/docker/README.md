@@ -11,7 +11,7 @@ Prof. Eduardo Ono
 
 > **Docker Desktop** é uma ferramenta de software que fornece um ambiente de desenvolvimento através da criação, transporte e execução de contêineres. 
 
-> Uma **Imagem Docker** é um modelo (_template_) para a criação de ambientes em contêiners através do Docker.
+> Uma **Imagem Docker** é um modelo (_blueprint_) para a criação de ambientes em contêiners através do Docker.
 
 > Um **contêiner** é uma instância de uma imagem Docker. Cada contêiner pode ser executado isoladamente de outros contêineres, agrupando seus próprios softwares, bibliotecas e arquivos de configuração.
 
@@ -30,6 +30,8 @@ ou
 
 ### Instalação do WSL 2 no Windows 10 Home
 <br>
+
+Por padrão, o WSL não vem instalado no Windows 10.
 
 1. Verificar se o Windows 10 Home está atualizado para a versão 2004 (Abr/2020) ou mais recente. Caso não esteja, atualizar o Windows.
 
@@ -52,7 +54,7 @@ ou
 
 Vídeo com o procedimento completo da instalação do WSL 2 no Windows 10 Home:
 
-* [David Bombal] [WSL 2: Getting started(Jun/2020)](https://www.youtube.com/watch?v=_fntjriRe48) (YouTube, 20:33)
+* [David Bombal] [WSL 2: Getting started](https://www.youtube.com/watch?v=_fntjriRe48) (YouTube, 20:33, Jun/2020)
 
 <br>
 
@@ -118,7 +120,7 @@ Obs.: Abrindo o navegador no endereço localhost:8080 o servidor nginx deverá e
 
 <br>
 
-## Dockerfiles
+## Dockerfiles (Exemplos)
 <br>
 
 ```
@@ -134,6 +136,7 @@ ADD ./usr/share/
 
 * [AzureTar] [Introdução a Docker Desktop usando WSL2, Windows Terminal e VS Code](https://youtu.be/eJQEISCKdos) (YouTube, 33:51)
 * [Amigoscode] [Docker and Kubernetes Tutorial (Set/2020)](https://www.youtube.com/watch?v=bhBSlnQcq2k) (4:17:59)
+* <a href="https://www.youtube.com/watch?v=i7ABlHngi1Q" title="Dockerfiles" target="_blank">[Travis Media] Docker For Beginners: From Docker Desktop to Deployment</a>  (YouTube, 59:29, Abr/2020)
 
 <br>
 
