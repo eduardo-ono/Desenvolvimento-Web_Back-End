@@ -28,7 +28,7 @@ Prof. Eduardo Ono
 
 <br>
 
-> Uma **API** é uma camada de software que facilita a comunicação entre dois elementos.
+> Uma **API** (_Application Programming Interface_) é uma camada de software que facilita a comunicação entre dois elementos.
 > * [Código Fonte TV] [API // Dicionário do Programador](https://www.youtube.com/watch?v=vGuqKIRWosk) (YouTube, 11:58, Out/2018)
 
 <br>
@@ -52,7 +52,7 @@ Prof. Eduardo Ono
 
 <br>
 
-> ### Conexão com Banco de Dados
+> ### Integração com Banco de Dados
 > * [Rocketseat] [SQL no Node.js com Knex.js](https://www.youtube.com/watch?v=U7GjS3FuSkA) (YouTube, 1:59:15, Abr/2020)
 > * [Rocketseat] [SQL no Node.js com Sequelize](https://www.youtube.com/watch?v=Fbu7z5dXcRs) (YouTube, 1:40:21, Out/2019)
 
