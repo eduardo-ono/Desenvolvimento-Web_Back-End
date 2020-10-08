@@ -7,12 +7,17 @@ Prof. Eduardo Ono
 ## Ambiente de Desenvolvimento
 <br>
 
-> Node.js
+> ### Node.js
+ <br>
 
-> VS Code
+> ### VS Code
 > * [Rocketseat] [Configurando VSCode para Node.js, ReactJS e React Native](https://www.youtube.com/watch?v=c7P03kkrEG8) (YouTube, 22:18, Jul/2019)
 > * [Rocketseat] [Debug de aplicações Node.js com VSCode](https://www.youtube.com/watch?v=bVAhNaxBEjM) (YouTube, 24:39, Dez/2019)
 
+<br>
+
+> ### Docker
+> * [Rocketseat] [Ambiente de desenvolvimento NodeJS com Docker e Docker Compose](https://www.youtube.com/watch?v=AVNADGzXrrQ) (YouTube, 17:30, Jul/2018)
 <br>
 
 ## Conceitos
@@ -32,6 +37,7 @@ Prof. Eduardo Ono
 <br>
 
 > ### Introdução ao Node.js
+> * [Rocketseat] [Node.js: Iniciando da teoria à prática](https://www.youtube.com/watch?v=DiXbJL3iWVs) (YouTube, 1:33:17, Abr/2020)
 > * [Rocketseat] [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As) (YouTube, 33:56, Ago/2019)
 
 <br>
@@ -43,6 +49,12 @@ Prof. Eduardo Ono
 
 > ### Insomnia
 > * [Rocketseat] [Masterizando o Insomnia](https://www.youtube.com/watch?v=3tB0uDliS6Y) (YouTube, 34:25, Jan/2020)
+
+<br>
+
+> ### Conexão com Banco de Dados
+> * [Rocketseat] [SQL no Node.js com Knex.js](https://www.youtube.com/watch?v=U7GjS3FuSkA) (YouTube, 1:59:15, Abr/2020)
+> * [Rocketseat] [SQL no Node.js com Sequelize](https://www.youtube.com/watch?v=Fbu7z5dXcRs) (YouTube, 1:40:21, Out/2019)
 
 <br>
 
