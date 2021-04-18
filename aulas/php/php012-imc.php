@@ -1,5 +1,4 @@
 <?php
-
     $nome = "Fulano";
     $sobrenome = 'de Tal';  // Aspas simples podem ser usadas
     $peso = 68.5;
@@ -8,5 +7,4 @@
     echo "Nome: " . $nome . " " . $sobrenome . "<br>";
     echo "IMC = " . $imc . "<br>";
     printf("IMC = %.1f", $imc);
-    
 ?>

@@ -6,36 +6,46 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web_back-end/
 
 <br>
 
-## Conteúdo Programático
-
-> Overview
-
-> PHP
-> * Composer
-
-> Node.js
-
-> Contêiners
-
-> Docker
+  <img src="./bin/meme.jpg" width="300px">
 
 <br>
 
-## Softwares
+## Conteúdo Programático
 
-- Microsoft Visual Studio Code - https://code.visualstudio.com
+| Aula | Data  | Descrição |
+| :-:  | :-:   | ---
+|  01  | 16/04 | Introdução ao desenvolvimento Back-End
+|  02  | 16/04 | Linguagem de programação PHP
+|  03  | 16/04 | Integração do PHP com uma base de dados
+|  04  | ---   | Node.js
+||| **DevOps**
+|  05  | ---   | Contêiners, Docker, Composer e Kubernets
+|  06  | ---   | Kubernetes
+|  07  | ---   | Cloud Web Services
 
 <br>
 
 ## Material de Apoio
-<br>
 
 - https://www.w3schools.com
 - https://www.php.net/manual/pt_BR/
 
 <br>
 
-## Bibliografia
+## Bibliografia Básica
+
 <br>
 
-## Filmes recomendados
+## Bibliografia Complementar
+
+<br>
+
+## Vídeos Recomendados
+
+* [FRONTLINE PBS - Official] [Amazon Empire: The Rise and Reign of Jeff Bezos (full film) - FRONTLINE](https://www.youtube.com/watch?v=RVVfJVj5z8s) (YouTube, 1:53:16)
+
+<br>
+
+## Filmes e Documentários Recomendados
+
+<br>
