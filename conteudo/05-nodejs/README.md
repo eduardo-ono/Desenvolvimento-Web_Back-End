@@ -49,8 +49,10 @@ Prof. Eduardo Ono
 
 ## Bibliografia
 
-* HAVERBEKE, Marijn. [**Eloquent JavaScript, 3 ed.**](https://archive.org/details/2018eloquentjavascript), 2018.
-* SYED, Basarat Ali. [**Beginning Node.js**](https://archive.org/details/beginning-nodejs-apress-2014), Apress, 2014.
-* DELBONO, Emanuele. [**Node.js Succinctly**](https://www.syncfusion.com/ebooks/nodejs), 76p, 2016.
+| Capa | Descrição |
+| :-:  | --- |
+| | HAVERBEKE, Marijn. [**Eloquent JavaScript, 3 ed.**](https://archive.org/details/2018eloquentjavascript), 2018.
+| | SYED, Basarat Ali. [**Beginning Node.js**](https://archive.org/details/beginning-nodejs-apress-2014), Apress, 2014.
+| | DELBONO, Emanuele. [**Node.js Succinctly**](https://www.syncfusion.com/ebooks/nodejs), 76p, 2016.
 
 <br>

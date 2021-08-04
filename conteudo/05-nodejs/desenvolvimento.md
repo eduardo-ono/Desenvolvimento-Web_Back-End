@@ -31,6 +31,14 @@ Prof. Eduardo Ono
 
 <br>
 
+## Vídeo Aulas
+
+| Thumb | Descrição |
+| :-:   | --- |
+| ![img](https://img.youtube.com/vi/TlB_eWDSMt4/default.jpg) | [Programming with Mosh]<br>[**Node.js Tutorial for Beginners: Learn Node in 1 Hour**](https://www.youtube.com/watch?v=TlB_eWDSMt4) (YouTube, 1:18:15, Fev/2018)
+
+<br>
+
 ## Referências Bibliográficas
 
 * HAVERBEKE, Marijn. [**Eloquent JavaScript, 3 ed.**](https://archive.org/details/2018eloquentjavascript), 2018.
