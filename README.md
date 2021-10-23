@@ -2,26 +2,24 @@
 
 Prof. Eduardo Ono
 
-Home Page: https://eduardo-ono.github.io/desenvolvimento-web_back-end/
+##### Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web_Back-End/
 
 <br>
 
-  <img src="./bin/meme.jpg" width="300px">
+<img src="./bin/meme.jpg" width="300px">
 
 <br>
 
 ## Conteúdo Programático
 
-| Aula | Data  | Descrição |
-| :-:  | :-:   | ---
-|  01  | 16/04 | Introdução ao desenvolvimento Back-End
-|  02  | 16/04 | Linguagem de programação PHP
-|  03  | 16/04 | Integração do PHP com uma base de dados
-|  04  | ---   | Node.js
-||| **DevOps**
-|  05  | ---   | Contêiners, Docker, Composer e Kubernets
-|  06  | ---   | Kubernetes
-|  07  | ---   | Cloud Web Services
+| Aula | Data | Descrição |
+| :-: | :-: | --- |
+| 01 |  | Introdução ao desenvolvimento Back-End
+| 02 |  | Linguagem de programação PHP
+| 03 |  | Integração do PHP com uma base de dados
+| 04 |  | Node.js
+| 05 |  | Contêiners, Docker, Composer e Kubernets
+| 06 |  | Cloud Web Services
 
 <br>
 

@@ -1,8 +1,23 @@
-### Desenvolvimento Web (Back-End)
+| <sup>Desenvolvimento Web (Back-End) > Conteúdo > Node.js</sup> |
+| --- |
 
-# Node.js - Ambiente de Desenvolvimento
+# Ambiente de Desenvolvimento - Node.js
 
 Prof. Eduardo Ono
+
+<br>
+
+## Instalação do Node.js
+
+* Download
+
+  * [https://nodejs.org/en/](https://nodejs.org/en/)
+
+* Vídeos de Apoio
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/Wras1X6rBrc/default.jpg)](https://www.youtube.com/watch?v=Wras1X6rBrc) | <sup>[Bóson Treinamentos]</sup> [__Como baixar e instalar o Node.js no Win 10__](https://www.youtube.com/watch?v=Wras1X6rBrc) <br> <sub>(10:22, YouTube, Jan/2020)</sub>
 
 <br>
 

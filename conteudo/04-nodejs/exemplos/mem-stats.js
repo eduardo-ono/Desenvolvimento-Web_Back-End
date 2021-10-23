@@ -5,9 +5,9 @@
 
 const os = require('os')
 
-// console.log(os.platform());
+console.log(os.platform());
 
-const loop = function () {
+const loop = () => {
   const { totalmem, freemem } = os;
   const memTotal = totalmem() / 1024.0 / 1024 / 1024; // GB
   const memDisponivel = freemem() / 1024.0 / 1024 / 1024; // GB
@@ -20,4 +20,3 @@ const loop = function () {
 }
 
 setInterval(loop, 1000);
-

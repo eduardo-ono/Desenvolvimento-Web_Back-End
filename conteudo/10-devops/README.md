@@ -5,6 +5,7 @@ Prof. Eduardo Ono
 <br>
 
 ## Docker
+
 <br>
 
 ### Pré-Requisitos
@@ -27,7 +28,8 @@ Prof. Eduardo Ono
 <br>
 
 ## Referências
-<br>
 
 * MIELL, Ian; SAYERS, Aidan Hobson. [Docker in Practice](https://archive.org/details/DockerInPractice), 2016.
 * GUPTA, Arun. [Docker for Java Developers](https://archive.org/details/DockerForJavaDevelopers), 2016.
+
+<br>
