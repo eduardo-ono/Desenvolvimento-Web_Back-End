@@ -4,10 +4,6 @@ Prof. Eduardo Ono
 
 <br>
 
-## Docker
-
-<br>
-
 ### Pré-Requisitos
 
 * Windows 10 Home e WSL 2
@@ -15,15 +11,29 @@ Prof. Eduardo Ono
 
 <br>
 
-### Instalação
+## Tópicos
 
-* Docker Desktop - https://www.docker.com/products/docker-desktop
+* ### [Docker](./docker)
+
+  * Instalação
+
+    * Docker Desktop - https://www.docker.com/products/docker-desktop
+
+  * Vídeos de Apoio
+
+    * [AzureTar] Introdução a Docker Desktop usando WSL2, Windows Terminal e VS Code | [YouTube](https://youtu.be/eJQEISCKdos) (33:51)
+
+* ### Serviços de Hospedagem
+
+  * [Heroku](./heroku)
+  * AWS
+  * Google Cloud
 
 <br>
 
-### Vídeo Aulas
+## Canais Recomendados
 
-* [AzureTar] Introdução a Docker Desktop usando WSL2, Windows Terminal e VS Code | [YouTube](https://youtu.be/eJQEISCKdos) (33:51)
+* https://www.youtube.com/c/TravisMedia
 
 <br>
 

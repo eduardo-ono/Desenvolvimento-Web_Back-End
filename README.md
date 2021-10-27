@@ -16,14 +16,15 @@ Prof. Eduardo Ono
 | :-: | :-: | --- |
 | 01 |  | Introdução ao desenvolvimento Back-End
 | 02 |  | Linguagem de programação PHP
-| 03 |  | Integração do PHP com uma base de dados
+| 03 |  | Base de Dados; Integração com o PHP
 | 04 |  | Node.js
-| 05 |  | Contêiners, Docker, Composer e Kubernets
+| 05 |  | DevOps: _Containers_, Docker, e Kubernets
 | 06 |  | Cloud Web Services
+| 07 |  | Python, Django, Flask
 
 <br>
 
-## Material de Apoio
+## Recursos
 
 - https://www.w3schools.com
 - https://www.php.net/manual/pt_BR/
@@ -38,12 +39,10 @@ Prof. Eduardo Ono
 
 <br>
 
-## Vídeos Recomendados
-
-* [FRONTLINE PBS - Official] [Amazon Empire: The Rise and Reign of Jeff Bezos (full film) - FRONTLINE](https://www.youtube.com/watch?v=RVVfJVj5z8s) (YouTube, 1:53:16)
-
-<br>
-
 ## Filmes e Documentários Recomendados
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/RVVfJVj5z8s/default.jpg)](https://www.youtube.com/watch?v=RVVfJVj5z8s) | <sup>[FRONTLINE PBS \| Official]</sup> [__Amazon Empire: The Rise and Reign of Jeff Bezos (full film) \| FRONTLINE__](https://www.youtube.com/watch?v=RVVfJVj5z8s) <br> <sub>(1:53:16, YouTube, Fev/2020)</sub>
 
 <br>

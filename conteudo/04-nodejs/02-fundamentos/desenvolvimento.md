@@ -37,6 +37,7 @@ Prof. Eduardo Ono
 | Thumb | Descrição |
 | :-:   | --- |
 | ![img](https://img.youtube.com/vi/TlB_eWDSMt4/default.jpg) | [Programming with Mosh]<br>[__Node.js Tutorial for Beginners: Learn Node in 1 Hour__](https://www.youtube.com/watch?v=TlB_eWDSMt4) (YouTube, 1:18:15, Fev/2018)
+| [![img](https://img.youtube.com/vi/CjQMi8mv2Do/default.jpg)](https://www.youtube.com/watch?v=CjQMi8mv2Do) | <sup>[Danki Code]</sup> [__CRIANDO SUA PRIMEIRA APLICAÇÃO/SISTEMA UTILIZANDO NODE JS (TUTORIAL)__](https://www.youtube.com/watch?v=CjQMi8mv2Do) <br> <sub>(16:56, YouTube, Jul/2020)</sub>
 
 <br>
 

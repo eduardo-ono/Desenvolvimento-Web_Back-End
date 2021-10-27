@@ -6,6 +6,12 @@ Prof. Eduardo Ono
 
 <br>
 
+## Conceitos
+
+* https://www.youtube.com/watch?v=PbRJxRjckdk
+
+<br>
+
 ## Vídeos Recomendados
 
 ### Overview
