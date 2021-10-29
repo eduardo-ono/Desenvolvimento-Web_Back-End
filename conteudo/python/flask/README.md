@@ -21,3 +21,11 @@ Prof. Eduardo Ono
 * https://www.youtube.com/watch?v=9qDTCIY3tK4
 
 <br>
+
+## Hospedagem
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/K2ejI4z8Mbg/default.jpg)](https://www.youtube.com/watch?v=K2ejI4z8Mbg) | <sup>[Hashtag Programação]</sup> [__Como Criar e Publicar um Site em Python com Flask__](https://www.youtube.com/watch?v=K2ejI4z8Mbg)<br> <sub>(1:00:29, YouTube, Out/2021)</sub>
+
+<br>
