@@ -1,4 +1,4 @@
-> Desenvolvimento Web (Back-End) > Conteúdo > Docker
+> ##### Desenvolvimento Web (Back-End) > Conteúdo > Docker
 
 # Overview
 
@@ -16,13 +16,19 @@ Prof. Eduardo Ono
 
 > Um ___contêiner___ é uma instância de uma imagem Docker. Cada contêiner pode ser executado isoladamente de outros contêineres, agrupando seus próprios softwares, bibliotecas e arquivos de configuração.
 
+### Vídeos de Apoio
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/MeFyp4VnNx0/default.jpg)](https://www.youtube.com/watch?v=MeFyp4VnNx0 "Docker Tutorial for Beginners [2021]") | <sup>[Programming with Mosh]</sup> [__TUDO O QUE VOCÊ PRECISA SABER SOBRE DOCKER EM 2022__](https://www.youtube.com/watch?v=MeFyp4VnNx0)<br><sub>(56:03, YouTube, Mar/2022)</sub>
+
 <br>
 
 ## Crash Courses
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![img](https://img.youtube.com/vi/pTFZFxd4hOI/default.jpg)](https://www.youtube.com/watch?v=pTFZFxd4hOI "Docker Tutorial for Beginners [2021]") | <sup>[Programming with Mosh]</sup> [__Docker Tutorial for Beginners [2021]__](https://www.youtube.com/watch?v=pTFZFxd4hOI) <br> <small>(56:03, YouTube, Mar/2021)</small>
+| [![img](https://img.youtube.com/vi/pTFZFxd4hOI/default.jpg)](https://www.youtube.com/watch?v=pTFZFxd4hOI "Docker Tutorial for Beginners [2021]") | <sup>[Programming with Mosh]</sup> [__Docker Tutorial for Beginners [2021]__](https://www.youtube.com/watch?v=pTFZFxd4hOI)<br><sub>(56:03, YouTube, Mar/2021)</sub>
 
 <br>
 

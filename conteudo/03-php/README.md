@@ -14,12 +14,15 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web_back-end/conteudo/p
 
 <br>
 
-## Tópicos
+## Sumário
 
-  * Ambiente de Desenvolvimento
-  * Integração PHP e base de dados
-  * Programação Orientada a Objetos
-  * PHP 8
+  * ### Ambiente de Desenvolvimento
+
+  * ### Integração PHP e base de dados
+
+  * ### Programação Orientada a Objetos
+
+  * ### PHP 8
 
 <br>
 
