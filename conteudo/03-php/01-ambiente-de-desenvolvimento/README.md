@@ -1,16 +1,35 @@
-> ### Desenvolvimento Web (Back-End) > Conteúdo
+<table>
+<tr>
+<td align="left" width="8000">
+    <small>Desenvolvimento Web (Back-End) > Conteúdo > PHP</small>
+</td>
+<td align="right">
+    <small>Atualizado&nbsp;em:&nbsp;14/04/2022</small>
+</td>
+</tr>
+</table>
 
-# PHP - Ambiente de Desenvolvimento
+<br>
 
+<h1 align="center">
+Ambiente de Desenvolvimento (PHP)
+</h1>
+<h4 align="center">
 Prof. Eduardo Ono
+</h4>
+
+<br>
 
 Home Page: https://eduardo-ono.github.io/desenvolvimento-web_back-end/conteudo/
 
 <br>
 
-## Instalação e Configuração de Softwares
+## Instalação e Configuração de Softwares (Windows)
 
-### Windows
+### Microsoft Visual Studio Code (VS Code)
+
+
+
 
 [<img src="../../mapas-mentais/php-setup.svg" width="300px">](../../mapas-mentais/php-setup.svg)
 

@@ -1,6 +1,8 @@
-# Desenvolvimento Web (Back-End)
+<h1 align="center">Desenvolvimento Web (Back-End)</h1>
 
-Prof. Eduardo Ono
+<h4 align="center">Prof. Eduardo Ono</h4>
+
+&nbsp;
 
 ##### Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web_Back-End/
 
@@ -13,7 +15,7 @@ Prof. Eduardo Ono
 ## Conteúdo Programático
 
 | Aula | Data | Descrição |
-| :-: | :-: | --- |
+| :-:  | :-:  | --- |
 | 01 |  | Introdução ao desenvolvimento Back-End
 | 02 |  | Linguagem de programação PHP
 | 03 |  | Base de Dados; Integração com o PHP

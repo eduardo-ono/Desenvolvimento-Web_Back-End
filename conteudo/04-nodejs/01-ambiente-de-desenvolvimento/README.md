@@ -17,7 +17,8 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![img](https://img.youtube.com/vi/Wras1X6rBrc/default.jpg)](https://www.youtube.com/watch?v=Wras1X6rBrc) | <sup>[Bóson Treinamentos]</sup> [__Como baixar e instalar o Node.js no Win 10__](https://www.youtube.com/watch?v=Wras1X6rBrc) <br> <sub>(10:22, YouTube, Jan/2020)</sub>
+| [![img](https://img.youtube.com/vi/Wras1X6rBrc/default.jpg)](https://www.youtube.com/watch?v=Wras1X6rBrc) | <sup>[Bóson Treinamentos]</sup><br>[__Como baixar e instalar o Node.js no Win 10__](https://www.youtube.com/watch?v=Wras1X6rBrc)<br><sub>(10:22, YouTube, Jan/2020)</sub>
+| [![img](https://img.youtube.com/vi/wDWdqlYxfcw/default.jpg)](https://www.youtube.com/watch?v=wDWdqlYxfcw) | <sup>[balta.io]</sup><br>[__Criando APIs com NodeJs - Aula 1: Instalação Node, NPM e VS Code__](https://www.youtube.com/watch?v=wDWdqlYxfcw)<br><sub>(4:02, YouTube, Ago/2017)</sub>
 
 <br>
 

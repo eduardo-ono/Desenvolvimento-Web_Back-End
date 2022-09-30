@@ -30,3 +30,11 @@ Prof. Eduardo Ono
 * [Rocketseat] [Deploy de aplicações NodeJS à AWS com Docker](https://www.youtube.com/watch?v=kqBCHYf_adA) (YouTube, 26:15, Dez/2018)
 
 <br>
+
+## Cursos Introdutórios
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/IOfDoyP1Aq0/default.jpg)](https://www.youtube.com/watch?v=IOfDoyP1Aq0) | <sup>[Felipe Rocha • dicasparadevs]</sup><br>[__Curso de Node.js Para Completos Iniciantes__](https://www.youtube.com/watch?v=IOfDoyP1Aq0)<br><sub>(1:47:41, YouTube, Fev/2022)</sub>
+
+<br>

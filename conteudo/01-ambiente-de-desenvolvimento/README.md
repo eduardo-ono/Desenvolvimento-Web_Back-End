@@ -40,3 +40,10 @@ Prof. Eduardo Ono
 * ### [Ambiente de Desenvolvimento](../04-nodejs/01-ambiente-de-desenvolvimento)
 
 <br>
+
+## Vídeos Recomendados
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/ro0vjHBAfpc/default.jpg)](https://www.youtube.com/watch?v=ro0vjHBAfpc) | <sup>[Renato Coelho]</sup><br>[__Passo a passo de Instalação do MySQL Workbench__](https://www.youtube.com/watch?v=ro0vjHBAfpc)<br><sub>(10:01, YouTube, Jan/2022)</sub>
+

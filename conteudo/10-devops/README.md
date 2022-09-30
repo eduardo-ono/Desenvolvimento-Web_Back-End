@@ -25,8 +25,8 @@ Prof. Eduardo Ono
 
 * ### Serviços de Hospedagem
 
-  * [Heroku](./heroku)
-  * AWS
+  * [Heroku](./web-hosting/heroku.md)
+  * [AWS](./web-hosting/aws.md)
   * Google Cloud
 
 <br>

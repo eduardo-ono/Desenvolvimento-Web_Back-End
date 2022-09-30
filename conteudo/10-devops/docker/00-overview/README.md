@@ -32,6 +32,14 @@ Prof. Eduardo Ono
 
 <br>
 
+## Cursos "Completos"
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/bZT78rGsgjk/default.jpg)](https://www.youtube.com/watch?v=bZT78rGsgjk&list=PLd3gOM3oIqFJ1ZMA6XJ1LI8IlwVfysDzQ&index=5) | <sup>[Engenharia de Software - Luciana]</sup><br>[__Curso INICIANTE DevOps - Aula #1: DOCKER, Conceitos e Prática de IMAGEM e CONTAINER__](https://www.youtube.com/watch?v=bZT78rGsgjk&list=PLd3gOM3oIqFJ1ZMA6XJ1LI8IlwVfysDzQ&index=5)<br><sub>(17:45, YouTube, Dez/2021)</sub>
+
+<br>
+
 ## Vídeos Recomendados
 
 * [AzureTar] [Introdução a Docker Desktop usando WSL2, Windows Terminal e VS Code](https://youtu.be/eJQEISCKdos) (YouTube, 33:51)

@@ -6,6 +6,16 @@ Prof. Eduardo Ono
 
 <br>
 
+## Frameworks
+
+* Flask
+
+* Django
+
+* Kivy
+
+<br>
+
 ## Vídeos Introdutórios
 
 | Thumb | Descrição |

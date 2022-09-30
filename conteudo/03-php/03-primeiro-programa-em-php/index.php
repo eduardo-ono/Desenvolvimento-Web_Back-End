@@ -9,9 +9,8 @@
 </head>
 
 <body>
-<p></p>
     <?php
-        echo("Olá mundo!");
+        echo("Olá mundo!\n");
     ?>
 </body>
 

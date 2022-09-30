@@ -16,6 +16,12 @@ ou
 
 <br>
 
+### Instalação do WSL 2 e do Docker no Windows 11 Home
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/umFz3MRTSN0/default.jpg)](https://www.youtube.com/watch?v=umFz3MRTSN0) | <sup>[Uzkha@Tech]</sup><br>[__Instalando Docker com WSL2 no Windows__](https://www.youtube.com/watch?v=umFz3MRTSN0)<br><sub>(9:17, YouTube, Mar/2022)</sub>
+
 ### Instalação do WSL 2 no Windows 10 Home
 
 Por padrão, o WSL não vem instalado no Windows 10.
@@ -62,5 +68,11 @@ Vídeo com o procedimento completo da instalação do WSL 2 no Windows 10 Home:
 sudo apt update && sudo apt upgrade
 sudo apt install docker-ce
 ```
+
+### Vídeos de Apoio
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/wpdcGgRY5kk/default.jpg)](https://www.youtube.com/watch?v=wpdcGgRY5kk) | <sup>[Full Cycle]</sup><br>[__Rodando Docker no WSL 2 sem Docker Desktop__](https://www.youtube.com/watch?v=wpdcGgRY5kk)<br><sub>(24:19, YouTube, Jun/2021)</sub>
 
 <br>
