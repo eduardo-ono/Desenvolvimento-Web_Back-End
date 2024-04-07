@@ -8,8 +8,8 @@
 
 Desenvolvimento de uma aplicação back-end em Node.js durante o NLW Unite (15ª ediçao), evento online e gratuito promovido pela Rocketseat. Foram aplicados os conceitos de API REST, utilizando TypeScript, Fastify como framework, integração do Prisma ORM + SQLite e Zod para validação de dados.
 
-Período: 01/04/2024 à 04/04/2024
-Carga horária: 5 horas
+Período: 01/04/2024 à 04/04/2024<br>
+Carga horária: 5 horas<br>
 Instrutor: Diego Fernandes (Educador na Rocketseat)
 
 &nbsp;
