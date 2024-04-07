@@ -75,4 +75,6 @@ sudo apt install docker-ce
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/wpdcGgRY5kk/default.jpg)](https://www.youtube.com/watch?v=wpdcGgRY5kk) | <sup>[Full Cycle]</sup><br>[__Rodando Docker no WSL 2 sem Docker Desktop__](https://www.youtube.com/watch?v=wpdcGgRY5kk)<br><sub>(24:19, YouTube, Jun/2021)</sub>
 
+https://www.youtube.com/watch?v=oAcrXHRAqoY
+
 <br>

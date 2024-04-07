@@ -1,6 +1,7 @@
 /*
- *
- * Baseado do vídeo: https://www.youtube.com/watch?v=DiXbJL3iWVs
+  Criado em     : 2021
+  Atualizado em : 12/10/2022
+  Referência    : https://www.youtube.com/watch?v=DiXbJL3iWVs
 */
 
 const os = require('os')
@@ -17,6 +18,7 @@ const loop = () => {
   }
   console.clear();
   console.table(stats);
+  console.log('Tecle ^C para sair...');
 }
 
 setInterval(loop, 1000);

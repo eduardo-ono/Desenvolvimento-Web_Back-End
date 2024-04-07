@@ -1,13 +1,15 @@
 | <sup>Desenvolvimento Web (Back-End)</sup> |
 | --- |
 
-# Conteúdo
+<h1 align="center">Conteúdo</h1>
 
-Prof. Eduardo Ono
+<h4 align="center">Prof. Eduardo Ono</h4>
 
-Home Page: https://eduardo-ono.github.io/Desenvolvimento-Web_Back-End/conteudo/
+&nbsp;
 
-<br>
+##### Home Page: https://eduardo-ono.github.io/Desenvolvimento-Web_Back-End/conteudo/
+
+&nbsp;
 
 ## Tópicos
 
@@ -22,13 +24,15 @@ Home Page: https://eduardo-ono.github.io/Desenvolvimento-Web_Back-End/conteudo/
 
 * ### [Node.js](./04-nodejs)
 
+* ### [Go (Golang)](./07-golang)
+
 * ### DevOps
 
-  * Contêiners
+  * Containers
   * Docker
   * Kubernets
 
-<br>
+&nbsp;
 
 ## Material de Apoio
 

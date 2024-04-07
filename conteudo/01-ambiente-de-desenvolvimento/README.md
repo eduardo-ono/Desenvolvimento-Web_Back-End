@@ -1,7 +1,7 @@
 | <sup>Desenvolvimento Web (Back-End) > Conteúdo</sup> |
 | --- |
 
-# Ambiente de Desenvolvimento
+# Ambientes de Desenvolvimento
 
 Prof. Eduardo Ono
 
