@@ -1,4 +1,3 @@
-
 <h1 align="center">Node.js - Fundamentos</h1>
 
 <h3 align="center">Prof. Eduardo Ono</h3>
@@ -25,8 +24,8 @@
 
 #### Vídeos de Apoio
 
-  | Thumb | Descrição |
-  | --- | --- |
-  | ![img](https://img.youtube.com/vi/vGuqKIRWosk/default.jpg) | <sup>[Código Fonte TV]</sup><br>[__API // Dicionário do Programador__](https://www.youtube.com/watch?v=vGuqKIRWosk)<br><sub>(11:58, YouTube, 22/Out/2018)</sub> |
+| Thumb | Descrição |
+| --- | --- |
+| ![img](https://img.youtube.com/vi/vGuqKIRWosk/default.jpg) | <sup>[Código Fonte TV]</sup><br>[__API // Dicionário do Programador__](https://www.youtube.com/watch?v=vGuqKIRWosk)<br><sub>(11:58, YouTube, 22/Out/2018)</sub> |
 
 &nbsp;
