@@ -6,9 +6,7 @@
 
 &nbsp;
 
-<p align="center">
-  <img src="./bin/cover.jpg" alt="img" width="300px">
-</p>
+<p align="center"><img src="./bin/cover.jpg" alt="img" width="300px"></p>
 
 &nbsp;
 
